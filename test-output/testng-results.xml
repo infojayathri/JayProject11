@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21920" started-at="2019-01-25T18:02:02Z" finished-at="2019-01-25T18:02:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21920" started-at="2019-01-25T18:02:02Z" finished-at="2019-01-25T18:02:24Z">
+      <class name="HomeWork.ExerciseExcelRead">
+        <test-method status="PASS" signature="setup()[pri:0, instance:HomeWork.ExerciseExcelRead@60dcc9fe]" name="setup" is-config="true" duration-ms="8677" started-at="2019-01-25T18:02:02Z" finished-at="2019-01-25T18:02:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testAdd()[pri:0, instance:HomeWork.ExerciseExcelRead@60dcc9fe]" name="testAdd" duration-ms="12080" started-at="2019-01-25T18:02:10Z" finished-at="2019-01-25T18:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:HomeWork.ExerciseExcelRead@60dcc9fe]" name="tearDown" is-config="true" duration-ms="983" started-at="2019-01-25T18:02:23Z" finished-at="2019-01-25T18:02:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- HomeWork.ExerciseExcelRead -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
